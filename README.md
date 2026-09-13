@@ -26,7 +26,7 @@ A hálózat része továbbá egy webszerver, közös hálózati nyomtató, valam
 A repository tartalmazza:
 
 - a Cisco Packet Tracer hálózati projektet (`.pkt`)
-- a projekt dokumentációját (`.docx`)
+- a projekt dokumentációját (`.pdf`)
 - a hálózat bemutatását és működésének tesztelését tartalmazó videót
 - a projekthez kapcsolódó további fájlokat
 
